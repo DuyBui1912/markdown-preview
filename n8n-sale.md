@@ -640,15 +640,6 @@ Khắc phục: Xác minh tính toàn vẹn dữ liệu danh sách sales
 
 ---
 
-## 📞 THÔNG TIN LIÊN HỆ HỖ TRỢ
-
-- **Quản trị viên N8N**: [Thông tin liên hệ của bạn]
-- **Quản trị viên Google Workspace**: [Thông tin liên hệ của bạn]  
-- **Quản trị viên MISA CRM**: [Thông tin liên hệ của bạn]
-- **Quản trị viên Telegram Bot**: [Thông tin liên hệ của bạn]
-
----
-
 ## 📝 LỊCH SỬ THAY ĐỔI
 
 | Ngày | Phiên bản | Thay đổi | Tác giả |
